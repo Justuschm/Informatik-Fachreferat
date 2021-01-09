@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: #CCC;
+  font-size: 32pt;
+}
+
+canvas {
+  display: block;
+}
+
+button {
+  font-size: 16pt;
+}
